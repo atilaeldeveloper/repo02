@@ -1,1 +1,3 @@
-# CLONANDO DESDE GIT
+# CLONANDO DESDE GIT  
+
+* Primero usamos git add (nombre de archivo) *
